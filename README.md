@@ -17,3 +17,5 @@ Can also be paused
 
 Objects can be placed and removed using left and right click respectively.
 Bit of an older project, therefore no OOP concepts are followed thus everything's in the Main.cpp
+
+[18-09-2024]
