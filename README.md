@@ -1,6 +1,6 @@
 # 2d collisions
 
-An extremely simple simulation of bouncing balls in 2 dimensions made with OpengGL, glfw, and glm for the view port aspects.
+An extremely simple simulation of bouncing balls in 2 dimensions made with OpengGL, GLFW, and glm for the view port aspects.
 
 
 
