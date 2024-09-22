@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/35bb479f-9647-4d96-9271-b2dd65ce297b
 
 ImGUI is used for all GUI implementation
 
-Has changeable gravity, radius, bounce damping and other variable which can be edited
+Has changeable gravity, radius, bounce damping and other variables which can be edited
 
 Also has a loss of energy toggle, which is a bit janky dues to resolutions not being very accurate when the balls bounce into each other but still fun to look at.
 Can also be paused
